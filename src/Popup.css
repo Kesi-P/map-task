@@ -1,0 +1,15 @@
+  
+  .locationinfo{
+    display: flex;
+    font-size: 14px;
+  }
+  img.Buidingicon {
+    width: 30%;
+    position: absolute;
+    margin-top: -50px;
+    left: 35%;
+    right: 35%;
+}
+.mapboxgl-popup-anchor-bottom, .mapboxgl-popup-anchor-bottom-left, .mapboxgl-popup-anchor-bottom-right {
+  padding: 20px 0px 4px 40px;
+}
